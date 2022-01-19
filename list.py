@@ -11,6 +11,7 @@ for name in student_name:
     print(name)
 
 
+<<<<<<< HEAD
 #create a list of boolean values to represent
 # students who have done their homework
 has_done_homework = [True, False, True, False, True, False]
@@ -21,3 +22,5 @@ print(has_done_homework)
 #how many false values are in this data structure?
 number_Falses = has_done_homework.count(False)
 print(number_Falses)
+=======
+>>>>>>> 242e07e1cf3741538c39a6bfa822b690f06122bb

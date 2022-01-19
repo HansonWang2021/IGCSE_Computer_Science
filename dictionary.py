@@ -11,6 +11,7 @@ print("Amy assignment score", amy_assignment_score)
 #create a dictionary using built in dict function (same thing, different way to write it)
 exam_scores = dict(Mars=90, Amy=93, Rain=98, Charlie=98)
 mars_score = exam_scores.get("Mars")
+<<<<<<< HEAD
 print("Mars exam score", mars_score)
 
 student_scores = {
@@ -24,3 +25,6 @@ student_scores = {
 student_scores = student_scores.get("Adrian")
 for score in student_scores:
     print(score)
+=======
+print("Mars exam score", mars_score)
+>>>>>>> 242e07e1cf3741538c39a6bfa822b690f06122bb
